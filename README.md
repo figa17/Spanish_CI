@@ -15,7 +15,7 @@ $config['language']='español';
 Y se debe copiar la carpeta español en la ruta:
 
 ```
-/system/language
+/system/language/
 ```
 
 
