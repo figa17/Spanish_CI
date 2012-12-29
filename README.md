@@ -9,10 +9,10 @@ Modo de Uso
 En el archivo de configuración, se debe modificar el idioma predefinido para el proyecto. Como se muestra a continuación.
 
 ```php
-$config['language']='español';
+$config['language']='spanish';
 ```
 
-Y se debe copiar la carpeta español en la ruta:
+Y se debe copiar la carpeta spanish y todo su contenido en la ruta:
 
 ```
 /system/language/
