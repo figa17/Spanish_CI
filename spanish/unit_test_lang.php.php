@@ -7,8 +7,8 @@ $lang['ut_result']			= 'Resultado';
 $lang['ut_undefined']		= 'Nombre del Test no definido';
 $lang['ut_file']			= 'Nombre de Archivo';
 $lang['ut_line']			= 'Numero de Linea';
-$lang['ut_passed']			= 'Pasó';
-$lang['ut_failed']			= 'Falló';
+$lang['ut_passed']			= 'PasÃ³';
+$lang['ut_failed']			= 'FallÃ³';
 $lang['ut_boolean']			= 'Boolean';
 $lang['ut_integer']			= 'Integer';
 $lang['ut_float']			= 'Float';
@@ -22,4 +22,4 @@ $lang['ut_notes']			= 'Notas';
 
 
 /* End of file unit_test_lang.php */
-/* Location: ./system/language/español/unit_test_lang.php */
+/* Location: ./system/language/espaÃ±ol/unit_test_lang.php */

@@ -9,10 +9,10 @@ $lang['profiler_post_data']		= 'DATOS POST';
 $lang['profiler_uri_string']	= 'CADENA URI';
 $lang['profiler_memory_usage']	= 'USO DE MEMORIA';
 $lang['profiler_config']		= 'VARIABLES DE CONFIGURACION';
-$lang['profiler_session_data']	= 'DATOS DE SESIÓN';
+$lang['profiler_session_data']	= 'DATOS DE SESIÃN';
 $lang['profiler_headers']		= 'CABECERAS HTTP';
 $lang['profiler_no_db']			= 'El driver para la base de datos no ha sido cargado.';
-$lang['profiler_no_queries']	= 'No se están ejecutando consultas.';
+$lang['profiler_no_queries']	= 'No se estÃ¡n ejecutando consultas.';
 $lang['profiler_no_post']		= 'No existen datos de tipo POST.';
 $lang['profiler_no_get']		= 'No existen datos de tipo GET.';
 $lang['profiler_no_uri']		= 'No existen datos URI.';
@@ -22,4 +22,4 @@ $lang['profiler_section_hide']	= 'Oculto.';
 $lang['profiler_section_show']	= 'Visible';
 
 /* End of file profiler_lang.php */
-/* Location: ./system/language/español/profiler_lang.php */
+/* Location: ./system/language/espaÃ±ol/profiler_lang.php */

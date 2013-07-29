@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for old in *.php;
+do
+iconv --from-code=ISO_8859-1 --to-code=UTF-8 $old > $old.php;
+done

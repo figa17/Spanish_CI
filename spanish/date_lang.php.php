@@ -1,7 +1,7 @@
 <?php
 
-$lang['date_year'] = "Año";
-$lang['date_years'] = "Años";
+$lang['date_year'] = "AÃ±o";
+$lang['date_years'] = "AÃ±os";
 $lang['date_month'] = "Mes";
 $lang['date_months'] = "Meses";
 $lang['date_week'] = "Semana";
@@ -58,4 +58,4 @@ $lang['UP14']	= '(UTC +14:00) Line Islands';
 
 
 /* End of file date_lang.php */
-/* Location: ./system/language/español/date_lang.php */
+/* Location: ./system/language/espaÃ±ol/date_lang.php */

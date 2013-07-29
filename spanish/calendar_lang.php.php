@@ -17,10 +17,10 @@ $lang['cal_sat'] 		= 'Sab';
 $lang['cal_sunday'] 	= 'Domingo';
 $lang['cal_monday'] 	= 'Lunes';
 $lang['cal_tuesday'] 	= 'Martes';
-$lang['cal_wednesday'] 	= 'MiÃ©rcoles';
+$lang['cal_wednesday'] 	= 'MiÃÂ©rcoles';
 $lang['cal_thursday'] 	= 'Jueves';
 $lang['cal_friday'] 	= 'Viernes';
-$lang['cal_saturday'] 	= 'SÃ¡bado';
+$lang['cal_saturday'] 	= 'SÃÂ¡bado';
 $lang['cal_jan'] 		= 'Ene';
 $lang['cal_feb'] 		= 'Feb';
 $lang['cal_mar'] 		= 'Mar';
@@ -48,4 +48,4 @@ $lang['cal_december'] 	= 'Diciembre';
 
 
 /* End of file calendar_lang.php */
-/* Location: ./system/language/espaÃ±ol/calendar_lang.php */
+/* Location: ./system/language/espaÃÂ±ol/calendar_lang.php */

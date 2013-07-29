@@ -1,13 +1,13 @@
 <?php
 
 $lang['migration_none_found']			= "No se encontraron misgraciones.";
-$lang['migration_not_found']			= "Esta migraci髇 no se ha encontrado.";
-$lang['migration_multiple_version']		= "Hay multiples migraciones con el mismo n鷐ero de versi髇: %d.";
-$lang['migration_class_doesnt_exist']	= "La clase de migraci髇\"%s\" no se ha encontrado.";
-$lang['migration_missing_up_method']	= "A la clase de migraci髇 \"%s\" le falta el m閠odo 'up'.";
-$lang['migration_missing_down_method']	= "A la clase de migraci髇 \"%s\" le falta el m閠odo 'down'.";
-$lang['migration_invalid_filename']		= "Migraci髇 \"%s\" tiene un nombre de archivo no v醠ido..";
+$lang['migration_not_found']			= "Esta migraci贸n no se ha encontrado.";
+$lang['migration_multiple_version']		= "Hay multiples migraciones con el mismo n煤mero de versi贸n: %d.";
+$lang['migration_class_doesnt_exist']	= "La clase de migraci贸n\"%s\" no se ha encontrado.";
+$lang['migration_missing_up_method']	= "A la clase de migraci贸n \"%s\" le falta el m茅todo 'up'.";
+$lang['migration_missing_down_method']	= "A la clase de migraci贸n \"%s\" le falta el m茅todo 'down'.";
+$lang['migration_invalid_filename']		= "Migraci贸n \"%s\" tiene un nombre de archivo no v谩lido..";
 
 
 /* End of file migration_lang.php */
-/* Location: ./system/language/espa駉l/migration_lang.php */
+/* Location: ./system/language/espa帽ol/migration_lang.php */
